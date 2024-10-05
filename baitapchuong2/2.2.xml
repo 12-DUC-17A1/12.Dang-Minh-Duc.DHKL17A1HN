@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+    <Student>
+        <StudentID>SV001</StudentID>
+        <FullName>Nguyễn Văn A</FullName>
+        <BirthYear>2000</BirthYear>
+        <Class>CTK42</Class>
+        <Gender>Nam</Gender>
+    </Student>
+    <Student>
+        <StudentID>SV002</StudentID>
+        <FullName>Trần Thị B</FullName>
+        <BirthYear>2001</BirthYear>
+        <Class>CTK42</Class>
+        <Gender>Nữ</Gender>
+    </Student>
+    <Student>
+        <StudentID>SV003</StudentID>
+        <FullName>Lê Văn C</FullName>
+        <BirthYear>1999</BirthYear>
+        <Class>CTK41</Class>
+        <Gender>Nam</Gender>
+    </Student>
+    <Student>
+        <StudentID>SV004</StudentID>
+        <FullName>Phạm Thị D</FullName>
+        <BirthYear>2000</BirthYear>
+        <Class>CTK42</Class>
+        <Gender>Nữ</Gender>
+    </Student>
+</Students>
