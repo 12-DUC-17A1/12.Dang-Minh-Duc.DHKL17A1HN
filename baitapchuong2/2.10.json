@@ -1,0 +1,13 @@
+{
+    "cong_ty":{
+        "ten":"cong ty tnhh dat viet ",
+        "dia_chi":"abc giai phong-Ha Noi"
+    },
+    "nhan_vien":[
+        {"ten":"Dang Minh Duc","ten don vi":"don vi 1"},
+        {"ten":"Dang Minh Duc 2","ten don vi":"don vi 2"},
+        {"ten":"Dang Minh Duc 3","ten don vi":"don vi 3"},
+        {"ten":"Dang Minh Duc 4","ten don vi":"don vi 4"},
+        {"ten":"Dang Minh Duc 5","ten don vi":"don vi 5"}
+    ]
+}
