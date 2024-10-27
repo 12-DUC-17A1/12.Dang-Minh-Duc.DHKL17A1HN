@@ -1,4 +1,5 @@
-import requests
+
+  import requests
 
 def get_posts_from_api():
     url = 'https://jsonplaceholder.typicode.com/posts'
